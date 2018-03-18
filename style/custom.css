@@ -2,7 +2,7 @@
 Site wide settings
 */
 
-body,h1
+html,body,h1,h2,h3,h4,h5,h6
 {
   font-family: "Raleway", sans-serif;
 }
@@ -10,22 +10,4 @@ body,h1
 body, html
 {
   height: 100%;
-}
-
-/*
-Coming Soon page
-*/
-
-hr.comingsoon-horizontal-line
-{
-   margin:auto;
-   width:40%;
-}
-
-div.comingsoon-background-img
-{
-    background-image: url('https://www.w3schools.com/w3images/forestbridge.jpg');
-    min-height: 100%;
-    background-position: center;
-    background-size: cover;
 }
